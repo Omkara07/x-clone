@@ -23,23 +23,23 @@ const Yourfeed = () => {
                   <img className=" w-full object-cover object-center" src="https://lh3.googleusercontent.com/RUg9YJuY2cPjh5znR5ZLqLJIBrm1CM2JuwCS1XP6g31ZDPa_NR--jR0JAum5qDbl2g5UKgBwM4SHSuyiWqjyd7VhBUI=w640-h400-e365-rj-sc0x00ffffff" alt="blog" />
                 </div>
                 <div className="icons p-6 items-center">
-                  <span className="text-gray-500 mr-10 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1">
+                  <span className="text-gray-500 mr-5 md:mr-10 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1">
                     <svg className="w-4 h-4 mr-1" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
                       <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
                       <circle cx="12" cy="12" r="3"></circle>
                     </svg>345K
                   </span>
-                  <span className="text-gray-500 mr-10 inline-flex items-center leading-none text-sm">
+                  <span className="text-gray-500 mr-5 md:mr-10 inline-flex items-center leading-none text-sm">
                     <svg className="w-4 h-4 mr-1" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
                       <path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z"></path>
                     </svg>622k
                   </span>
-                  <span className="text-gray-500 mr-10 inline-flex items-center leading-none text-sm">
+                  <span className="text-gray-500 mr-5 md:mr-10 inline-flex items-center leading-none text-sm">
                     <span class="material-symbols-outlined text-[18px] py-1 font-thin mx-1">
                       favorite
                     </span>112k
                   </span>
-                  <span className="text-gray-500 mr-10 inline-flex items-center leading-none text-sm">
+                  <span className="text-gray-500 mr-5 md:mr-10 inline-flex items-center leading-none text-sm">
                     <span class="material-symbols-outlined mx-1">
                       bar_chart_4_bars
                     </span>342k
@@ -65,23 +65,23 @@ const Yourfeed = () => {
                   <img className="h-full w-full object-cover object-center" src="https://wallpapercave.com/wp/wp5121779.jpg" alt="blog" />
                 </div>
                 <div className="icons p-6 items-center">
-                  <span className="text-gray-500 mr-10 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1">
+                  <span className="text-gray-500 mr-5 md:mr-10 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1">
                     <svg className="w-4 h-4 mr-1" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
                       <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
                       <circle cx="12" cy="12" r="3"></circle>
                     </svg>345K
                   </span>
-                  <span className="text-gray-500 mr-10 inline-flex items-center leading-none text-sm">
+                  <span className="text-gray-500 mr-5 md:mr-10 inline-flex items-center leading-none text-sm">
                     <svg className="w-4 h-4 mr-1" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
                       <path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z"></path>
                     </svg>622k
                   </span>
-                  <span className="text-gray-500 mr-10 inline-flex items-center leading-none text-sm">
+                  <span className="text-gray-500 mr-5 md:mr-10 inline-flex items-center leading-none text-sm">
                     <span class="material-symbols-outlined text-[18px] py-1 font-thin mx-1">
                       favorite
                     </span>112k
                   </span>
-                  <span className="text-gray-500 mr-10 inline-flex items-center leading-none text-sm">
+                  <span className="text-gray-500 mr-5 md:mr-10 inline-flex items-center leading-none text-sm">
                     <span class="material-symbols-outlined mx-1">
                       bar_chart_4_bars
                     </span>342k
@@ -107,23 +107,23 @@ const Yourfeed = () => {
                   <img className=" w-full object-cover object-center" src="https://4kwallpapers.com/images/walls/thumbs/15478.jpg" alt="blog" />
                 </div>
                 <div className="icons p-6 items-center">
-                  <span className="text-gray-500 mr-10 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1">
+                  <span className="text-gray-500 mr-5 md:mr-10 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1">
                     <svg className="w-4 h-4 mr-1" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
                       <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
                       <circle cx="12" cy="12" r="3"></circle>
                     </svg>345K
                   </span>
-                  <span className="text-gray-500 mr-10 inline-flex items-center leading-none text-sm">
+                  <span className="text-gray-500 mr-5 md:mr-10 inline-flex items-center leading-none text-sm">
                     <svg className="w-4 h-4 mr-1" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
                       <path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z"></path>
                     </svg>622k
                   </span>
-                  <span className="text-gray-500 mr-10 inline-flex items-center leading-none text-sm">
+                  <span className="text-gray-500 mr-5 md:mr-10 inline-flex items-center leading-none text-sm">
                     <span class="material-symbols-outlined text-[18px] py-1 font-thin mx-1">
                       favorite
                     </span>112k
                   </span>
-                  <span className="text-gray-500 mr-10 inline-flex items-center leading-none text-sm">
+                  <span className="text-gray-500 mr-5 md:mr-10 inline-flex items-center leading-none text-sm">
                     <span class="material-symbols-outlined mx-1">
                       bar_chart_4_bars
                     </span>342k
@@ -149,23 +149,23 @@ const Yourfeed = () => {
                   <img className=" w-full object-cover object-center" src="https://4kwallpapers.com/images/walls/thumbs_2t/15598.jpg" alt="blog" />
                 </div>
                 <div className="icons p-6 items-center">
-                  <span className="text-gray-500 mr-10 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1">
+                  <span className="text-gray-500 mr-5 md:mr-10 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1">
                     <svg className="w-4 h-4 mr-1" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
                       <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
                       <circle cx="12" cy="12" r="3"></circle>
                     </svg>345K
                   </span>
-                  <span className="text-gray-500 mr-10 inline-flex items-center leading-none text-sm">
+                  <span className="text-gray-500 mr-5 md:mr-10 inline-flex items-center leading-none text-sm">
                     <svg className="w-4 h-4 mr-1" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
                       <path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z"></path>
                     </svg>622k
                   </span>
-                  <span className="text-gray-500 mr-10 inline-flex items-center leading-none text-sm">
+                  <span className="text-gray-500 mr-5 md:mr-10 inline-flex items-center leading-none text-sm">
                     <span class="material-symbols-outlined text-[18px] py-1 font-thin mx-1">
                       favorite
                     </span>112k
                   </span>
-                  <span className="text-gray-500 mr-10 inline-flex items-center leading-none text-sm">
+                  <span className="text-gray-500 mr-5 md:mr-10 inline-flex items-center leading-none text-sm">
                     <span class="material-symbols-outlined mx-1">
                       bar_chart_4_bars
                     </span>342k
@@ -191,23 +191,23 @@ const Yourfeed = () => {
                   <img className=" w-full object-cover object-center" src="https://www.hindustantimes.com/ht-img/img/2023/04/22/550x309/HIDIVE_OSHI_NO_KO_1682155135941_1682155148326.jpg" alt="blog" />
                 </div>
                 <div className="icons p-6 items-center">
-                  <span className="text-gray-500 mr-10 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1">
+                  <span className="text-gray-500 mr-5 md:mr-10 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1">
                     <svg className="w-4 h-4 mr-1" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
                       <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"></path>
                       <circle cx="12" cy="12" r="3"></circle>
                     </svg>345K
                   </span>
-                  <span className="text-gray-500 mr-10 inline-flex items-center leading-none text-sm">
+                  <span className="text-gray-500 mr-5 md:mr-10 inline-flex items-center leading-none text-sm">
                     <svg className="w-4 h-4 mr-1" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
                       <path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z"></path>
                     </svg>622k
                   </span>
-                  <span className="text-gray-500 mr-10 inline-flex items-center leading-none text-sm">
+                  <span className="text-gray-500 mr-5 md:mr-10 inline-flex items-center leading-none text-sm">
                     <span class="material-symbols-outlined text-[18px] py-1 font-thin mx-1">
                       favorite
                     </span>112k
                   </span>
-                  <span className="text-gray-500 mr-10 inline-flex items-center leading-none text-sm">
+                  <span className="text-gray-500 mr-5 md:mr-10 inline-flex items-center leading-none text-sm">
                     <span class="material-symbols-outlined mx-1">
                       bar_chart_4_bars
                     </span>342k
