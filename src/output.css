@@ -1124,6 +1124,10 @@ video {
     display: block;
   }
 
+  .sm\:hidden {
+    display: none;
+  }
+
   .sm\:w-0 {
     width: 0px;
   }
